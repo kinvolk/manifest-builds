@@ -4,7 +4,7 @@
            fetch="https://chromium.googlesource.com/"
            review="gerrit.chromium.org/gerrit" />
   <remote  name="github"
-           fetch=".." />
+      fetch="ssh://git@github.com" />
   <remote  name="private"
            fetch="ssh://git@github.com" />
 </manifest>
