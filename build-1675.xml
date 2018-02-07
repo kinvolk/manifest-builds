@@ -2,7 +2,7 @@
 <manifest>
   <notice>Your sources have been sync'd successfully.</notice>
   <remote fetch="https://chromium.googlesource.com/" name="cros" review="gerrit.chromium.org/gerrit"/>
-  <remote fetch=".." name="github"/>
+  <remote fetch="../.." name="github"/>
   <remote fetch="ssh://git@github.com" name="private"/>
   
   <default remote="github" revision="refs/heads/master" sync-j="4"/>
