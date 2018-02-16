@@ -34,7 +34,7 @@
   <project groups="minilayout" name="kinvolk/nss-altfiles" path="src/third_party/nss-altfiles" revision="42bec47544ad80d3e39342b11ea33da05ff9133d" upstream="refs/heads/master"/>
   <project groups="minilayout" name="kinvolk/portage-stable" path="src/third_party/portage-stable" revision="04dd7777ebd58eb1470807879bb36ceeb0064391" upstream="refs/heads/master"/>
   <project groups="minilayout" name="kinvolk/rkt" path="src/third_party/rkt" revision="4029349a0815042fb2d3b49fb521cc02a24ee7bc" upstream="refs/heads/master"/>
-  <project groups="minilayout" name="kinvolk/scripts" path="src/scripts" revision="6604bbd0cf0585e18967db76bbe7edab2220605d" upstream="refs/heads/master"/>
+  <project groups="minilayout" name="kinvolk/scripts" path="src/scripts" revision="88948d08701a89be43e48a68e92c5f0191bb4fa8" upstream="refs/heads/master"/>
   <project groups="minilayout" name="kinvolk/sdnotify-proxy" path="src/third_party/sdnotify-proxy" revision="0f8ef1aa86c59fc6d54eadaffb248feaccd1018b" upstream="refs/heads/master"/>
   <project groups="minilayout" name="kinvolk/seismograph" path="src/third_party/seismograph" revision="a1279931829306af9b8ba37486ab23d6f0cd1488" upstream="refs/heads/master"/>
   <project groups="minilayout" name="kinvolk/shim" path="src/third_party/shim" revision="03a1513b0985fd682b13a8d29fe3f1314a704c66" upstream="refs/heads/master"/>
