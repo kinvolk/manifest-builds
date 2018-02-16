@@ -29,7 +29,7 @@ Your sources have been sync'd successfully.
   <project path="src/third_party/coreos-overlay"
            name="kinvolk/coreos-overlay"
            groups="minilayout"
-           revision="fa4ed6404b043181728449d1920ae9b33db12318"
+           revision="8c6e45e264c586a6b3baf4c63a646581ac3109de"
            upstream="refs/heads/iaguis/fix-docker-hash" />
 
   <project path="src/third_party/efunctions"
