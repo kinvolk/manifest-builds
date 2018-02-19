@@ -21,7 +21,9 @@ Your sources have been sync'd successfully.
            name="chromiumos/third_party/pyelftools" />
 
   <project path="src/scripts" name="kinvolk/scripts"
-           groups="minilayout" />
+           groups="minilayout"
+           revision="c9120b974d3017041c7efd5d313edc818c5cd6ec"
+           upstream="refs/heads/iaguis/flatcar" />
 
   <project path="src/third_party/portage-stable"
            name="kinvolk/portage-stable"
