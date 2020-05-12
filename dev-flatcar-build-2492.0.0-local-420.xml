@@ -24,7 +24,7 @@
   <project groups="minilayout" name="flatcar-linux/mayday" path="src/third_party/mayday" revision="78318a5760bea08ff5a76779a070c2c8fbea2939" upstream="refs/heads/master"/>
   <project groups="minilayout" name="flatcar-linux/nss-altfiles" path="src/third_party/nss-altfiles" revision="42bec47544ad80d3e39342b11ea33da05ff9133d" upstream="refs/heads/master"/>
   <project groups="minilayout" name="flatcar-linux/portage-stable" path="src/third_party/portage-stable" revision="38bb3e599c99744484bf9aeee46ae741c1429b1b" upstream="refs/heads/flatcar-build-2492.0.0"/>
-  <project name="flatcar-linux/scripts" path="src/scripts" revision="c378cb39bb8b61fa103d930b44f0f37af240c705" upstream="refs/heads/marga-kinvolk/split-toolchains"/>
+  <project name="flatcar-linux/scripts" path="src/scripts" revision="41824f62bc6657f19795f461754fcc5f2c89d976" upstream="refs/heads/marga-kinvolk/split-toolchains"/>
   <project groups="minilayout" name="flatcar-linux/sdnotify-proxy" path="src/third_party/sdnotify-proxy" revision="0f8ef1aa86c59fc6d54eadaffb248feaccd1018b" upstream="refs/heads/master"/>
   <project groups="minilayout" name="flatcar-linux/seismograph" path="src/third_party/seismograph" revision="edbe2360e9af362914868df0c7c1ace62e8e1778" upstream="refs/heads/master"/>
   <project groups="minilayout" name="flatcar-linux/shim" path="src/third_party/shim" revision="03a1513b0985fd682b13a8d29fe3f1314a704c66" upstream="refs/heads/master"/>
